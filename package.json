@@ -1,5 +1,5 @@
 {
-  "name": "logdis",
+  "name": "logdis-core",
   "description": "Modular log processing framework - the core module. http://logdis.io/",
   "version": "0.1.0",
   "homepage": "http://logdis.io/",
