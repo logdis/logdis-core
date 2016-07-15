@@ -1,0 +1,27 @@
+{
+  "name": "logdis",
+  "description": "Modular log processing framework - the core module. http://logdis.io/",
+  "version": "0.1.0",
+  "homepage": "http://logdis.io/",
+  "scripts": {
+    "test": "tape test.js"
+  },
+  "devDependencies": {
+    "tape": "^4.6.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/logdis/logdis.git"
+  },
+  "bugs": {
+    "url": "https://github.com/logdis/logdis/issues",
+    "email": "chilts@logdis.io"
+  },
+  "author": {
+    "name": "Andrew Chilton",
+    "email": "chilts@logdis.io",
+    "url": "http://chilts.org/"
+  },
+  "keywords": [ "logdis" ],
+  "license": "ISC"
+}
